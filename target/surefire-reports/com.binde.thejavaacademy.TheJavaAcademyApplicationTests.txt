@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.binde.thejavaacademy.TheJavaAcademyApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.517 s - in com.binde.thejavaacademy.TheJavaAcademyApplicationTests
